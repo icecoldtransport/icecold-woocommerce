@@ -81,3 +81,6 @@ lze adresu API přepsat filtrem `icecold_api_base_url`.
 
 = 1.4 =
 * Dvě teplotní zóny v jedné zásilce.
+
+
+V případě nefunkčnosti či jiných problémů jsme vám k dispozici : it@icecoldtrans.cz
